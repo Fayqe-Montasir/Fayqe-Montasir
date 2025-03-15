@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I’m Fayqe Montasir, a passionate MERN Stack Developer from Bangladesh.<br><br>👯 I’m looking - To collaborate on open-source projects.<br>👨‍💻 All of my projects are available at https://github.com/Fayqe-Montasir<br>💬 Ask me about Web Development<br>📫 How to reach me swe.montasir@gmail.com<br>📄 All About Me: www.linkedin.com/in/fayqe-montasir</p>
+<p align="left">I’m Fayqe Montasir, a passionate MERN Stack Developer from Bangladesh.<br><br>👯 I’m looking - To collaborate on open-source projects.<br>👨‍💻 All of my projects are available at https://github.com/Fayqe-Montasir<br>💬 Ask me about Web Development<br>📫 How to reach me swe.montasir@gmail.com <br>📄 All About Me: www.linkedin.com/in/fayqe-montasir</p>
 
 ###
 
